@@ -1,0 +1,9 @@
+diff a/My project/Assets/Enemy/Script/Enemy.cs b/My project/Assets/Enemy/Script/Enemy.cs	(rejected hunks)
+@@ -8,6 +8,7 @@
+ 
+     public GameObject[] EnemyObj;         //�G�v���n�u�̊i�[�i�g����l���A�z�񉻂����Ă����j
+     public int ObjIndex;                   //�z��
++    private float Speed = 0;                        //�G�̎�ނɂ���đ��x��ύX
+ 
+     protected int IntervalFlame;      //����(�t���[����)��i�[����ϐ�
+ 
