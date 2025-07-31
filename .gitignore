@@ -104,3 +104,9 @@ InitTestScene*.unity*
 /Project-BlockBreak/Obj/
 /Project-BlockBreak/Build/
 /Project-BlockBreak/UserSettings/
+
+/Project-MeteorBreaker/Library/
+/Project-MeteorBreaker/Temp/
+/Project-MeteorBreaker/Obj/
+/Project-MeteorBreaker/Build/
+/Project-MeteorBreaker/UserSettings/
